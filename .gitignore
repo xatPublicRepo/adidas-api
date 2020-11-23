@@ -1,0 +1,15 @@
+/target/
+/reports/cucumber/
+
+### VSCode ###
+.classpath
+.factorypath
+.project
+.settings/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
